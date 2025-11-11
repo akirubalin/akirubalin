@@ -10,18 +10,18 @@ where I share my journey, insights, and resources and practice my tech skills. I
 In my free time, I love learning new technologies, improving my coding skills, and exploring different creative projects.  
 But when I’m not in tech mode, you’ll find me shopping, doing makeup, taking cute pics, and enjoying matcha! ♡  
 
-## Contact  
+# Contact  
 If you'd like to discuss work opportunities or collaborations, you can reach me at:  
 ✉️: advianakirubalin@gmail.com
 
-## Tech Stack
+# Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,java,py,mysql" />
   </a>
 </p>
 
-## Tools
+# Tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,sklearn,tensorflow,notion,vscode,github" />
@@ -44,7 +44,7 @@ If you'd like to discuss work opportunities or collaborations, you can reach me 
 </p>
 
 
-## Operating System
+# Operating System
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
