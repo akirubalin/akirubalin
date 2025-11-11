@@ -1,7 +1,7 @@
 # About me
 ###### Fun Facts
 - Currently a Computer Science (Software Engineering) student at Arizona State University.
-- As of now, I’m focused on learning Machine Learning and developing projects that put theory into practice
+- As of now, I’m focused on learning Machine Learning and Data Science and developing projects that put theory into practice
 
 <br/>
 Hi! I'm Adviana Kirubalin, a passionate developer creating innovative and accessible tech experiences. <br/>
