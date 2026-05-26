@@ -24,7 +24,7 @@ If you'd like to discuss work opportunities or collaborations, you can reach me 
 # Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,matlab,azure,notion,visualstudio,vscode,eclipse,github" />
+    <img src="https://skillicons.dev/icons?i=aws,matlab,azure,visualstudio,vscode,eclipse,github" />
   </a>
   <a href="https://colab.research.google.com" target="_blank"> 
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="50" height="50"/> 
